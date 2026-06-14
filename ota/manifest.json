@@ -1,5 +1,4 @@
 {
-  "version": "2026.06.20-1",
-  "firmware_url": "https://raw.githubusercontent.com/Cracheur/trash_calendar/main/ota/firmware/2026.06.20-1.bin",
-  "notes": "Erstes OTA Release"
+  "version": "2026.07.01-1",
+  "firmware_url": "https://raw.githubusercontent.com/Cracheur/trash_calendar/main/ota/firmware/2026.07.01-1.bin"
 }
